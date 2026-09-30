@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=lFKLfT0AAAAJ&amp;hl=en">Google Scholar</a>
-  ·
+  |
   <a href="https://orcid.org/0000-0002-1792-2357">ORCID</a>
 </p>
