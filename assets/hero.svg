@@ -1,6 +1,6 @@
 <svg width="1200" height="384" viewBox="0 0 1200 384" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" text-rendering="geometricPrecision">
-  <title id="title">Ali Salman. Clinical research, health data science, AI/ML, and open-source research software.</title>
-  <desc id="desc">A Vercel-inspired profile card with public research metrics: 29 publications, 124 citations, h-index 6, and i10-index 5.</desc>
+  <title id="title">Muhammad Saad, MBBS. Cardiology, public health, internal medicine, and outcomes research.</title>
+  <desc id="desc">A profile card showing public publication, citation, h-index, and i10-index metrics.</desc>
 
   <defs>
     <clipPath id="frame-clip">
@@ -111,9 +111,9 @@
     <rect x="560" y="0" width="600" height="384" fill="url(#text-fade-light)" class="fade-light"/>
     <rect x="560" y="0" width="600" height="384" fill="url(#text-fade-dark)" class="fade-dark"/>
 
-    <text x="64" y="158" class="display ink">Ali Salman.</text>
-    <text x="64" y="212" class="body-text body">I work in clinical research, health data science, and AI/ML.</text>
-    <text x="64" y="240" class="body-text body">I also build open-source research software.</text>
+    <text x="64" y="158" class="display ink">Muhammad Saad.</text>
+    <text x="64" y="212" class="body-text body">I work in cardiology, public health, and internal medicine.</text>
+    <text x="64" y="240" class="body-text body">My focus includes clinical outcomes research.</text>
 
     <rect x="752" y="80" width="384" height="232" rx="12" class="card-shadow"/>
     <rect x="752" y="76" width="384" height="232" rx="12" class="surface"/>
@@ -129,19 +129,19 @@
 
     <circle cx="784" cy="158" r="4" fill="#0072F5"/>
     <text x="796" y="162" class="label muted">PUBLICATIONS</text>
-    <text id="metric-publications" x="784" y="202" class="metric-value ink">30</text>
+    <text id="metric-publications" x="784" y="202" class="metric-value ink">45</text>
 
     <circle cx="976" cy="158" r="4" fill="#45DEC5"/>
     <text x="988" y="162" class="label muted">CITATIONS</text>
-    <text id="metric-citations" x="976" y="202" class="metric-value ink">130</text>
+    <text id="metric-citations" x="976" y="202" class="metric-value ink">262</text>
 
     <circle cx="784" cy="244" r="4" fill="#EA3E83"/>
     <text x="796" y="248" class="label muted">H-INDEX</text>
-    <text id="metric-h-index" x="784" y="288" class="metric-value ink">6</text>
+    <text id="metric-h-index" x="784" y="288" class="metric-value ink">9</text>
 
     <circle cx="976" cy="244" r="4" fill="#FF990A"/>
     <text x="988" y="248" class="label muted">I10-INDEX</text>
-    <text id="metric-i10-index" x="976" y="288" class="metric-value ink">6</text>
+    <text id="metric-i10-index" x="976" y="288" class="metric-value ink">9</text>
   </g>
 
   <rect x="1" y="1" width="1198" height="382" rx="12" class="frame"/>

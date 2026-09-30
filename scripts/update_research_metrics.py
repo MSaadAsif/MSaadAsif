@@ -15,8 +15,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
-ORCID_ID = "0009-0001-1102-226X"
-SCHOLAR_AUTHOR_ID = "DNLvp9YAAAAJ"
+ORCID_ID = "0000-0002-1792-2357"
+SCHOLAR_AUTHOR_ID = "lFKLfT0AAAAJ"
 SCHOLAR_BADGE_BASE_URL = "https://google-scholar-badge.vercel.app"
 SCHOLAR_BADGE_ENDPOINTS = (
     ("citations", "citations"),

@@ -1,6 +1,12 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-    <img src="./assets/hero.svg" width="100%" alt="Ali Salman. Works in clinical research, health data science, and AI/ML. Builds open-source research software. Research metrics: 29 publications, 124 citations, h-index 6, and i10-index 5." />
+    <img src="./assets/hero.svg" width="100%" alt="Muhammad Saad, MBBS. Research interests include cardiology, public health, internal medicine, and outcomes research. Research metrics are shown in the card." />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=lFKLfT0AAAAJ&amp;hl=en">Google Scholar</a>
+  ·
+  <a href="https://orcid.org/0000-0002-1792-2357">ORCID</a>
 </p>
