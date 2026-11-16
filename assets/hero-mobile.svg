@@ -135,11 +135,11 @@
 
     <circle cx="72" cy="418" r="5" fill="#EA3E83"/>
     <text x="88" y="423" class="label muted">H-INDEX</text>
-    <text id="metric-h-index" x="72" y="471" class="metric-value ink">9</text>
+    <text id="metric-h-index" x="72" y="471" class="metric-value ink">10</text>
 
     <circle cx="392" cy="418" r="5" fill="#FF990A"/>
     <text x="408" y="423" class="label muted">I10-INDEX</text>
-    <text id="metric-i10-index" x="392" y="471" class="metric-value ink">9</text>
+    <text id="metric-i10-index" x="392" y="471" class="metric-value ink">10</text>
   </g>
 
   <rect x="1" y="1" width="718" height="526" rx="14" class="frame"/>
